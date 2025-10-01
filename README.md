@@ -13,7 +13,7 @@ Implementation of well known data structures and algorithms with the intent of h
 
 - [**Array list**](./arraylist)
 - [**Bi-directional map**](./bidimap)
-- [**Binary search tree**](./binarysearchtree)
+- [**Binary search tree**](./binarytree)
 - [**LRU cache**](./cache/lru.go)
 - [**Doubly linked list**](./doublylinkedlist)
 - [**Graph**](./graph)
